@@ -1,0 +1,179 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+#about-sec{
+	margin:5px;
+}
+.Static{
+	height:350px;
+	width:500px;
+	border:2px solid red;
+	margin:5px;
+	
+}
+.box1{
+	height:100px;
+	width:100px;
+	background-color:yellow;
+}
+
+.box2{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+.box3{
+	height:100px;
+	width:100px;
+	background-color:violet;
+}
+
+
+
+#about-sec{
+	margin:5px;
+}
+.Relative{
+	height:350px;
+	width:500px;
+	border:2px solid red;
+	margin:5px;
+	
+	
+	
+}
+.box4{
+	height:100px;
+	width:100px;
+	background-color:yellow;
+	position:absolute;
+	left:700px;
+	top:7px;
+}
+
+.box5{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+.box6{
+	height:100px;
+	width:100px;
+	background-color:violet;
+}
+
+#about-sec{
+	margin:5px;
+}
+.Absolute{
+	height:350px;
+	width:500px;
+	border:2px solid red;
+	margin:5px;
+	position:relative;
+	
+	
+}
+.box7{
+	height:100px;
+	width:100px;
+	background-color:yellow;
+	position:absolute;
+	left:50px;
+	top:10px;
+}
+
+.box8{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+.box9{
+	height:100px;
+	width:100px;
+	background-color:violet;
+}
+
+#about-sec{
+	margin:5px;
+}
+.Fixed{
+	height:350px;
+	width:500px;
+	border:2px solid red;
+	margin:5px;
+	
+	
+	
+}
+.box10{
+	height:100px;
+	width:100px;
+	background-color:yellow;
+	
+}
+
+.box11{
+	height:100px;
+	width:100px;
+	background-color:green;
+	position:Fixed;
+	top:500px;
+}
+.box12{
+	height:100px;
+	width:100px;
+	background-color:violet;
+}
+
+
+#about-sec{
+	margin:5px;
+}
+.Fixed{
+	height:350px;
+	width:500px;
+	border:2px solid red;
+	margin:5px;
+	
+	
+	
+}
+.box10{
+	height:100px;
+	width:100px;
+	background-color:yellow;
+	
+}
+
+.box11{
+	height:100px;
+	width:100px;
+	background-color:green;
+	position:Fixed;
+	top:500px;
+}
+.box12{
+	height:100px;
+	width:100px;
+	background-color:violet;
+}
+
+.Sticky{
+	height:50px;
+	width:auto;
+	border:2px solid red;
+	margin:5px;
+	background-color:green;
+	position:sticky;
+	top:0;
+}
+li{
+	float:left;
+}
+p{
+	font-size:250%;
+}
